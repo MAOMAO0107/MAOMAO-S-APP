@@ -1,0 +1,5 @@
+{
+  "name": "毛毛的记账本",
+  "description": "A minimalist, black-and-white bookkeeping app that uses Gemini AI to automatically categorize your spending, income, and savings while providing a yearly overview.",
+  "requestFramePermissions": []
+}
